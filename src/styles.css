@@ -1,0 +1,13 @@
+:root { font-family: Inter, Arial, sans-serif; color: #1f2937; }
+body { margin: 0; background: #f3f4f6; }
+.app { max-width: 1200px; margin: 0 auto; padding: 20px; }
+header h1 { margin: 0; }
+nav { display: flex; gap: 8px; margin: 16px 0; }
+button, input, .import { border: 1px solid #cbd5e1; border-radius: 8px; padding: 8px 12px; background: white; }
+button.active { background: #1d4ed8; color: white; }
+.grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin: 12px 0; }
+.card { background: white; border-radius: 12px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.toolbar { display: flex; gap: 8px; margin: 12px 0; align-items: center; }
+.import input { display: none; }
+table { width: 100%; border-collapse: collapse; background: white; border-radius: 10px; overflow: hidden; }
+th, td { padding: 10px; border-bottom: 1px solid #e5e7eb; text-align: left; font-size: 14px; }

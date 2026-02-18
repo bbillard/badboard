@@ -1,0 +1,4 @@
+saison;nom;prenom;sexe;age_fin_saison;categorie;email;telephone;departement;adherent_valide;montant_du;montant_recu;montant_restant;tarif;reductions;mode_paiement;certif_medical;justificatifs;licence
+2024-2025;Dupont;Alice;F;15;Jeune;alice@example.com;0600000001;75;Oui;180;180;0;180;0;CB;Oui;Oui;LIC001
+2024-2025;Martin;Louis;M;34;Adulte;louis@example.com;0600000002;78;Oui;220;100;120;220;0;Chèque;Oui;Non;LIC002
+2024-2025;Bernard;Emma;F;42;Adulte;emma@example.com;0600000003;92;Non;220;0;220;220;20;Virement;Non;Non;LIC003
